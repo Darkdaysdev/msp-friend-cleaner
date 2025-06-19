@@ -1,4 +1,4 @@
-# 🦾 DARKDAYS MSP Arkadaş Temizleyici
+# 🦾 MSP Arkadaş Temizleyici
 
 ## ✨ MSP Arkadaş Temizleyici Scripti
 

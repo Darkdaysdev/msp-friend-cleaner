@@ -1,5 +1,3 @@
-# 🦾 MSP Arkadaş Temizleyici
-
 ## ✨ MSP Arkadaş Temizleyici Scripti
 
 Bu script, MovieStarPlanet hesabınızdaki tüm arkadaşları otomatik olarak siler. Terminalde sizden **Profile ID** ve **Auth Token** bilgilerinizi ister, ardından tüm arkadaşlarınızı hızlıca temizler.
